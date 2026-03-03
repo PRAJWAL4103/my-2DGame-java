@@ -16,6 +16,8 @@ public class Player extends Entity{
 		this.gp = gp;
 		this.keyH = keyH;
 		
+		setDefaultValue();
+		
 	}
 	public void setDefaultValue() {
 		
